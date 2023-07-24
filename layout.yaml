@@ -1,0 +1,18 @@
+root_key: "0xbc7ea5e587b95161eb80ee86fe8501858e7a15aa97e15b385e4bfba9f81eb2ef"
+users:
+
+chain_id: 4
+allow_new_validators: true
+epoch_duration_secs: 120
+is_test: false
+min_stake: 100000000000000
+min_voting_threshold: 100000000000000
+max_stake: 100000000000000000
+recurring_lockup_duration_secs: 86400
+required_proposer_stake: 100000000000000
+rewards_apy_percentage: 10
+voting_duration_secs: 43200
+voting_power_increase_limit: 20
+total_supply: ~
+employee_vesting_start: 1663456089
+employee_vesting_period_duration: 300
